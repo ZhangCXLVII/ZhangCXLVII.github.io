@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Specifies the character encoding for the HTML document -->
+    <meta charset="UTF-8">
+    <!-- Sets the viewport to ensure the page is responsive on all devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1, user-scalable=no">
+    <!-- Links to the external CSS stylesheet for this page -->
+    <link rel="stylesheet" href="about.css">
+    <!-- Title of the HTML document, displayed in the browser tab -->
+    <title>About</title>
+</head>
+<body>
+    <!-- Navigation bar for page links -->
+    <nav>
+        <!-- Current page indicator (class "page" could be used to style the current page link) -->
+        <a class="page" href=""></a>
+        <!-- Link to the Introduction page -->
+        <a href="index.html">Introduction</a>
+        <!-- Link to the About page -->
+        <a href="about.html">About</a>
+    </nav>
+    <!-- Main content container -->
+    <div id="main">
+        <!-- Left section with personal information -->
+        <div id="main_left">
+            <h2>About Me</h2>
+            <!-- Profile picture -->
+            <img src="picture/touxiang.jpg" alt="">
+            <!-- Personal details -->
+            <p>
+                <span>Qikang Zhang</span><br><br>
+                South China Normal University<br><br>
+                Undergraduate in Artificial Intelligence, interested in Multi-modal models, Embodied AI, Vision-and-Language Navigation<br>
+                <br>
+                <!-- Email link -->
+                <a href="mailto:20223801087@m.scnu.edu.cn">Email</a>
+                <br>
+                <!-- GitHub profile link -->
+                <a href="https://github.com/ZhangCXLVII/ZhangCXLVII.github.io">Github</a>
+            </p>
+        </div>
+        <!-- Right section with additional information -->
+        <div id="main_right">
+            <h2>About</h2>
+            <!-- Personal and professional interests description -->
+            <p>
+                <br>
+                My major is Artificial Intelligence. My professional interests are mainly focused on Embodied AI because I've loved robots since I was a kid.<br><br>
+                I am particularly interested in Vision-and-Language Navigation within Embodied AI. This topic is significant because the robot must navigate to the task location before any downstream task can be performed.<br><br>
+                In addition to academic and professional interests, I have some photos of my travels sharing.<br><br>
+                <!-- Container for the carousel of travel photos -->
+                <div class="lunbo">
+                    <div class="content">
+                    <!-- Unordered list containing the travel photos -->
+                    <ul id="item">
+                        <li class="item">
+                            <!-- Link to a travel photo -->
+                            <a href="#"><img src="picture/pic1.jpg" ></a>
+                        </li>
+                        <li class="item">
+                            <a href="#"><img src="picture/pic2.jpg" ></a>
+                        </li>
+                        <li class="item">
+                            <a href="#"><img src="picture/pic3.jpg" ></a>
+                        </li>
+                        <li class="item">
+                            <a href="#"><img src="picture/pic4.jpg" ></a>
+                        </li>
+                        <li class="item">
+                            <a href="#"><img src="picture/pic5.jpg" ></a>
+                        </li>
+                    </ul>
+                    <!-- Left navigation button for the carousel -->
+                    <div id="btn-left"><</div>
+                    <!-- Right navigation button for the carousel -->
+                    <div id="btn-right">></div>
+                    <!-- Unordered list for the carousel indicators -->
+                    <ul id="circle"> 
+                        <li class="circle"></li>
+                        <li class="circle"></li>
+                        <li class="circle"></li>
+                        <li class="circle"></li>
+                        <li class="circle"></li>
+                    </ul>
+                </div>
+                <!-- Link to the external JavaScript file for the carousel functionality -->
+                <script src="transform.js"></script>
+            </p>
+        </div>
+    </div>
+</body>
+</html>
+
