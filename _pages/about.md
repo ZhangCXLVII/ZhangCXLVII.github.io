@@ -10,5 +10,5 @@ redirect_from:
 
 I am a junior student at Souch China Normal University, supervised by Dr. Lihua Cai. My major is Aritificial Intelligence.
 
-My research focuses on the efficient training of Machine Learning Models, Embodied Intelligence and Multi-modal models.
+My research focuses on the efficient training of Machine Learning Models, Embodied Intelligence and Multimodal learning.
 
