@@ -1,4 +1,7 @@
 ---
+layout: single
+title: ""
+permalink: /publication/2025-04-01-TTT4D
 collection: publications
 category: conferences
 ---
