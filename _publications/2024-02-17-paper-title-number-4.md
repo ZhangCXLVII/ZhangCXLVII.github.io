@@ -20,7 +20,7 @@ category: conferences
     <p style="margin: 0 0 4px;">
       <span style="color: #007acc; font-weight: 500;">Qikang Zhang</span>, Yingjie Lei, Zihao Zheng, Ziyang Chen, Zhonghao Xie
     </p>
-    <p style="font-style: italic; margin: 0 0 8px;">IJCNN 2025</p>
+    <p style="font-style: italic; margin: 0 0 8px;">International Joint Conference on Neural Networks (IJCNN), 2025</p>
     <div style="display: flex; gap: 10px;">
       <a href="https://www.arxiv.org/abs/2502.02341" target="_blank" style="text-decoration: none;">
         <div style="display: inline-block; padding: 6px 12px; border: 1px solid black; border-radius: 6px; font-size: 13px; color: black; background-color: transparent;">
