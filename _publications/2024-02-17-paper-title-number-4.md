@@ -8,7 +8,7 @@ category: conferences
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
   <div style="position: relative; width: 180px; margin-right: 20px;">
-    <img src="/assets/images/publication_teasers/ttt4d.png" alt="Teaser image" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+    <img src="/images/publication_teasers/ttt4d.png" alt="Teaser image" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
     <div style="position: absolute; top: 8px; left: 8px; background-color: #007acc; color: white; font-size: 12px; padding: 2px 6px; border-radius: 4px;">
       IJCNN 2025
     </div>
