@@ -1,3 +1,8 @@
+---
+collection: publications
+category: conferences
+---
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
   <div style="position: relative; width: 180px; margin-right: 20px;">
     <img src="/assets/images/publication_teasers/ttt4d.png" alt="Teaser image" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
