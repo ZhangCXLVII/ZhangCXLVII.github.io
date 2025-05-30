@@ -22,11 +22,15 @@ category: conferences
     </p>
     <p style="font-style: italic; margin: 0 0 8px;">IJCNN 2025</p>
     <div style="display: flex; gap: 10px;">
-      <a href="https://arxiv.org/abs/2502.02341" target="_blank" style="text-decoration: none;">
-        <div style="display: inline-block; background-color: #007acc; color: white; padding: 6px 12px; border-radius: 6px; font-size: 13px;">ARXIV</div>
+      <a href="https://www.arxiv.org/abs/2502.02341" target="_blank" style="text-decoration: none;">
+        <div style="display: inline-block; padding: 6px 12px; border: 1px solid black; border-radius: 6px; font-size: 13px; color: black; background-color: transparent;">
+          ARXIV
+        </div>
       </a>
-      <a href="https://github.com/example/code" target="_blank" style="text-decoration: none;">
-        <div style="display: inline-block; background-color: #007acc; color: white; padding: 6px 12px; border-radius: 6px; font-size: 13px;">CODE</div>
+      <a href="https://github.com/ChaosTheProducer/TTT4D" target="_blank" style="text-decoration: none;">
+        <div style="display: inline-block; padding: 6px 12px; border: 1px solid black; border-radius: 6px; font-size: 13px; color: black; background-color: transparent;">
+          CODE
+        </div>
       </a>
     </div>
   </div>
