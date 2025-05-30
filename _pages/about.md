@@ -12,3 +12,6 @@ I am a junior student at Souch China Normal University, supervised by Prof. Lihu
 
 My research focuses on how to understand the world through vision and predict the future. This broadly includes world model, vision representation, embodied intelligence and multimodal learning.  
 
+## News
+
+- *2025.05.23*: One paper accepted to IJCNN 2025 as oral 🎉
