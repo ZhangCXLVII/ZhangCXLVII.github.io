@@ -14,4 +14,5 @@ My research focuses on how to understand the world through vision. This broadly 
 
 ## News
 
+- *2025.06.14*: I will be a Session Chair for IJCNN 2025
 - *2025.05.23*: One paper accepted to IJCNN 2025 as oral 🎉
