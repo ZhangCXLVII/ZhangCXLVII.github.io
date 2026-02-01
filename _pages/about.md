@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-I am a junior student at Souch China Normal University, supervised by Prof. Lihua Cai. My major is Aritificial Intelligence.
+I am a senior student at Souch China Normal University, supervised by Prof. Lihua Cai. My major is Aritificial Intelligence.
 
 My research focuses on how to understand the world through vision. This broadly includes world model, video generation, embodied intelligence and multimodal learning.  
 
 ## News
 
-- *2025.06.14*: I will be a Session Chair for IJCNN 2025
-- *2025.05.23*: One paper accepted to IJCNN 2025 as oral 🎉
+- *2025.06*: Session Chair of IJCNN 2025
+- *2025.05*: One paper accepted to IJCNN 2025 as oral 🎉
