@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Qikang Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Junior Student at South China Normal University"
+  bio              : #
   location         : "Foshan, China"
   employer         : #maybe a school name
   uri              : # URL
