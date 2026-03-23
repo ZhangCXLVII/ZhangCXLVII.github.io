@@ -12,6 +12,7 @@ I am a senior student at Souch China Normal University, supervised by Prof. Lihu
 
 My research focuses on how to understand the world through vision. This broadly includes world model, video generation, embodied intelligence and multimodal learning.  
 
+> The inner world exists to register the distance from the real.
 ## News
 
 - *2025.06*: Session Chair of IJCNN 2025
