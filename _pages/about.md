@@ -8,10 +8,11 @@ redirect_from:
 ---
 
 
-I am a senior student at Souch China Normal University, supervised by Prof. Lihua Cai. My major is Aritificial Intelligence.
+I am a senior student at South China Normal University, supervised by Prof. Lihua Cai. My major is Aritificial Intelligence.
 
 My research focuses on how to understand the world through vision. This broadly includes world model, video generation, embodied intelligence and multimodal learning.  
 
+### My Quote
 > The inner world exists to register the distance from the real.
 
 ## News
