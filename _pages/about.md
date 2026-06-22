@@ -12,7 +12,7 @@ Hi, I am a upcoming M.Phil student at the School of Artificial Intelligence, the
 
 Previously, I received B.Eng in artificial intelligence from South China Normal University. I am grateful to receive advice from Prof. Daochang Liu when I did research at the University of Western Australia.
 
-My research focuses on how to understand the world through vision. This broadly includes world model, video generation, embodied intelligence and multimodal learning.  
+My research focuses on how to understand the world through vision. This broadly includes world model, video generation and embodied intelligence.  
 
 ### My Quote
 "*The inner world exists to register the distance from the real. "*
