@@ -21,3 +21,14 @@ My research focuses on how to understand the world through vision. This broadly 
 
 - *2025.06*: Session Chair of IJCNN 2025
 - *2025.05*: One paper accepted to IJCNN 2025 as oral 🎉
+
+## Experience
+**Research Intern**  
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/Intern_TeleAI.jpeg" width="180" style="margin-right: 20px;">
+  <div>
+    <b>Institute of Artificial Intelligence (TeleAI), China Telecom, Shanghai, China</b><br>
+    <i>2025.11 - 2026.05</i><br>
+    Worked on generative video compression and multimodal understanding and generation.<br>
+  </div>
+</div>
