@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-Hi, I am a upcoming M.Phil student at the School of Artificial Intelligence, the Chinese University of Hong Kong (Shenzhen), advised by Prof. Junjie Hu. 
+Hi, I am a M.Phil student at the School of Artificial Intelligence, the Chinese University of Hong Kong (Shenzhen), advised by Prof. Junjie Hu. 
 
 Previously, I received B.Eng in artificial intelligence from South China Normal University. I am grateful to receive advice from Prof. Daochang Liu when I did research at the University of Western Australia.
 
-My research focuses on how to understand the world through vision. This broadly includes world model, video generation and embodied intelligence.  
+My research focuses on robot manipulation learning from natural human data. I am also interested in understanding the world through vision. This broadly includes world model and video generation.
 
 ### My Quote
 "*The inner world exists to register the distance from the real. "*
